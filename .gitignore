@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+### IntelliJ
+.idea/
+out/
+.idea_modules/
+
+### Scala template
+*.class
+*.log
+
+### SBT
+target/
+
+### General
+.DS_Store
+.AppleDouble
+.LSOverride
+
